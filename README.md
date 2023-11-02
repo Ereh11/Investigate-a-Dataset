@@ -1,17 +1,3 @@
-
-
-```python
-#discover the size of data
-df.shape
-```
-
-
-
-
-    (110527, 14)
-
-
-
 > **Tip**: Welcome to the Investigate a Dataset project! You will find tips in quoted sections like this to help organize your approach to your investigation. Once you complete this project, remove these **Tip** sections from your report before submission. First things first, you might want to double-click this Markdown cell and change the title so that it reflects your dataset and investigation.
 
 # Project: Investigate a Dataset - [noshowappointments-kagglev2-may-2016.csv]
