@@ -22,10 +22,10 @@ Variable names are self-explanatory, if you have doubts, just let me know!
 
 
 ### Question(s) for Analysis
-Does the gender affects the attendance of the appointment ?
-Does people more than 40 showed for the appointments more ?
-Which disease their patient shows the most or affected on patient's to attend the appointment ?
-Does SMS messages affected their attendance ?
+- Does the gender affects the attendance of the appointment ?
+- Does people more than 40 showed for the appointments more ?
+- Which disease their patient shows the most or affected on patient's to attend the appointment ?
+- Does SMS messages affected their attendance ?
 
 
 ```python
