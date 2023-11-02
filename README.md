@@ -1093,7 +1093,7 @@ plt.title("No_Show");
 ![png](https://github.com/Ereh11/Investigate-a-Dataset/blob/main/Resources/output_48_0.png)
 
 
-There are 67.90 % didn't recieve SMS messeges and they showed up their appointments.
+There are 66.44 % didn't recieve SMS messeges and they showed up their appointments.
 
 <a id='conclusions'></a>
 ## Conclusions
