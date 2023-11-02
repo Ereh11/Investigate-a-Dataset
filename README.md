@@ -699,7 +699,7 @@ df.hist(figsize = (18,7))
 ```
 
 
-![png](output_27_0.png)
+![png](https://github.com/Ereh11/Investigate-a-Dataset/blob/main/Resources/output_27_0.png)
 
 
 
@@ -752,7 +752,7 @@ plot_gen(fe , 'Females')
 ```
 
 
-![png](output_32_0.png)
+![png](https://github.com/Ereh11/Investigate-a-Dataset/blob/main/Resources/output_32_0.png)
 
 
 
@@ -954,7 +954,7 @@ plt.title('Investigationg Counts of No for people greater >  40 ')
 
 
 
-![png](output_36_1.png)
+![png](https://github.com/Ereh11/Investigate-a-Dataset/blob/main/Resources/output_36_1.png)
 
 
 It look like there are people greater than 40 years have high ablitiy to show up for their appointments.
@@ -999,7 +999,7 @@ df.hist(figsize=(10,12));
 ```
 
 
-![png](output_43_0.png)
+![png]([output_43_0.png](https://github.com/Ereh11/Investigate-a-Dataset/blob/main/Resources/output_43_0.png))
 
 
 
@@ -1064,7 +1064,7 @@ pd.plotting.scatter_matrix(df, figsize=(16,16))
 
 
 
-![png](output_44_1.png)
+![png](https://github.com/Ereh11/Investigate-a-Dataset/blob/main/Resources/output_44_1.png)
 
 
 From the graphs, It look like the patients who suffering from Hypertension and Diabetes attend their appointments more than those who do not have this condition.
@@ -1079,7 +1079,7 @@ plt.title("SMS_Recevied");
 ```
 
 
-![png](output_47_0.png)
+![png](https://github.com/Ereh11/Investigate-a-Dataset/blob/main/Resources/output_47_0.png)
 
 
 
@@ -1090,7 +1090,7 @@ plt.title("No_Show");
 ```
 
 
-![png](output_48_0.png)
+![png]([output_48_0.png](https://github.com/Ereh11/Investigate-a-Dataset/blob/main/Resources/output_48_0.png)
 
 
 There are 67.90 % didn't recieve SMS messeges and they showed up their appointments.
