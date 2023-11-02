@@ -999,7 +999,7 @@ df.hist(figsize=(10,12));
 ```
 
 
-![png]([output_43_0.png](https://github.com/Ereh11/Investigate-a-Dataset/blob/main/Resources/output_43_0.png))
+![png](https://github.com/Ereh11/Investigate-a-Dataset/blob/main/Resources/output_43_0.png)
 
 
 
